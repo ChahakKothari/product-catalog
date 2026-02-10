@@ -1,4 +1,4 @@
-# 🛍️ Product Catalog - Frontend Developer Assessment
+# 🛍️ Product Catalog - Frontend Developer 
 
 A modern, responsive product catalog web application built with React that demonstrates proficiency in component development, API integration, and responsive design.
 
